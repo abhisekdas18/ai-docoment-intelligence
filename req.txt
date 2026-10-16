@@ -1,0 +1,14 @@
+easyocr
+pdf2image
+pillow
+opencv-python
+spacy
+transformers
+torch
+fastapi
+uvicorn
+python-multipart
+pandas
+numpy
+matplotlib
+shap
